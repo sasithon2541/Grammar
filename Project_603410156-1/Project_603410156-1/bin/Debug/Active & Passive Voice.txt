@@ -1,0 +1,66 @@
+﻿				Active & Passive Voice
+Active Voice คือ ประโยคที่ประธานเป็นผู้กระทำกริยาโดยตรง โดยมีกรรมมารับหรือไม่มีกรรมมารับประโยคก็ได้
+Passive Voice คือ ประโยคที่ประธานเป็นผู้ถูกกระทำ รูปแบบโครงสร้างของ Passive Voice คือ Verb to be + V.3
+การเปลี่ยนประโยคบอกเล่า Active Voice เป็น Passive Voice
+    1. ให้เอากรรมของประโยค Active Voice มาเป็นประธานในประโยค Passive Voice ถ้าเป็นคำนามไม่ต้องเปลี่ยนรูป แต่ถ้าคำสรรพนามให้เป็นเปลี่ยนเป็นรูปกรรม
+    2. ให้เปลี่ยน Verb to be อยู่ใน Tense เดียวกับกริยาหลักของประโยค Active Voice และผันตามประธานในประโยค Passive Voice
+    3. กริยาหลักในประโยค Active Voice ควรเปลี่ยนเป็นกริยาช่องที่ 3
+    4. ต่อด้วย by + ประธานในประโยค Active Voice ที่เปลี่ยนรูปกรรม ถ้าเป็นคำนามให้คงรูปเดิม แต่คำสรรพนามให้เปลี่ยนเป็นรูปกรรมก่อน
+ตัวอย่างเช่น
+   – กริยาหลักในประโยค Active Voice เป็น Present Simple ให้ Verb to be ในประโยค Passive Voice เป็น is , am , are
+เช่น   She drinks milk.	Milk is drunk by her.
+   – กริยาหลักในประโยค Active Voice เป็น Present Continuous ให้ Verb to be ในประโยค Passive Voice เป็น (is,am,are) + being
+เช่น   She is eating oranges.	Oranges are being eaten by her.
+   – กริยาหลักในประโยค Active Voice เป็น Present Perfect ให้ Verb to be ในประโยค Passive Voice เป็น (has,have) + been
+เช่น   He has written these letters.	These letters have been written by him.
+   – กริยาหลักในประโยค Active Voice เป็น Past Simple ให้ Verb to be ในประโยค Passive Voice เป็น was, were เช่น
+Milk was drunk by her.
+   – กริยาหลักในประโยค Active Voice เป็น Past Continouns ให้ Verb to be ในประโยค Passive Voice เป็น (was,were) + being
+เช่น   She was eating oranges.	Oranges were being eaten by her.
+   – กริยาหลักในประโยค Active Voice เป็น Past Perfect ให้ Verb to be ในประโยค Passive Voice เป็น had been 
+เช่น   He had written these letters.	These letters had been written by him.
+   – กริยาหลักในประโยค Active Voice เป็น Future Simple ให้ Verb to be ในประโยค Passive Voice เป็น (will,shall) + be 
+เช่น  She will do her homework. 	Her homework will be doneby her.
+   – กริยาหลักในประโยค Active Voice เป็น Future Continuous ให้ Verb to be ในประโยค Passive Voice เป็น
+(will,shall) + be + being 
+เช่น  She will be sending a letter.	      A letter will be being sent by her.
+   – กริยาหลักในประโยค Active Voice เป็น Future Perfect ให้ Verb to be ในประโยค Passive Voice เป็น (will,shall) + have + been
+เช่น   They will have cleaned this room this weekend.
+   This room will have been cleaned by them this weekend.
+
+	การเปลี่ยนประโยคคำถาม Active Voice เป็น Passive Voice
+ถ้าประโยคขึ้นต้นด้วย Helping Verb
+    1. เปลี่ยนประโยคคำถามเป็นประโยคบอกเล่า
+    2. เปลี่ยนประโยคบอกเล่าจาก Active Voice เป็นประโยค Passive Voice
+    3. เปลี่ยนประโยคบอกเล่า Passive Voice เป็นประโยคคำถาม โดยใช้ Helping Verb ขึ้นต้นประโยคและตามด้วยประธาน กริยา 
+และส่วนอื่นๆ ต่อไป
+ตัวอย่างเช่น   Does she buy this book ?
+ขั้น 1   She buys this book.
+ขั้น 2   This book is bought by her.
+ขั้น 3   Is this book bought by her ? (Passive Voice)
+
+ถ้าประโยคคำถามขึ้นต้นด้วย Question Word
+    1. ให้เปลี่ยนประโยคคำถามเป็นประโยคบอกเล่า
+    2. ให้เปลี่ยนประโยคบอกเล่า Active Voice เป็นประโยค Passive Voice
+    3. ให้เปลี่ยนประโยคบอกเล่า Passive Voice เป็นประโยคคำถาม โดยใช้ Question Word เป็นคำขึ้นต้นประโยคและตามด้วย helping verb 
+ประธาน กริยาและส่วนอื่น ๆ ต่อไป ยกเว้น คำว่า Who ในประโยค Active Voice ให้เปลี่ยนเป็น By whom ในประโยค Passive Voice
+เช่น   Who sees her ?
+ขั้น 1.  Who sees her.
+ขั้น 2.  She is seen by whom.
+ขั้น 3.  By whom is she seen?
+
+Which car do you buy?
+ขั้น 1.  You buy which car.
+ขั้น 2, 3  Which car is bought by you ?
+
+Verbs Expressing Emotion หมายถึง กริยาที่แสดงความรู้สึก เช่น interest , amuse , bore , please , 
+frighten , excite , tire , astonish , surprise , disappoint , etc. ลักษณะการใช้กริยาเหล่านี้ คือ
+    1. ใช้เป็น Verb ในรูป Active Voice (Subj + V + obj) แปลว่า ทำให้   
+เช่น   This car interests me. แปลว่า รถคันนี้ทำให้ฉันสนใจ
+    2. ใช้ใน present participle (V-ing) แปลว่า น่า เมื่อมีความรู้สึกอย่างใดอย่างหนึ่งต่อบุคคลหรือสิ่งใด ให้เติม -ing หลัง Verb นั้น
+เช่น   John is boring . แปลว่า จอห์นเป็นคนน่าเบื่อ	This book is interesting . แปลว่า หนังสือเล่มนี้น่าสนใจ
+    3. ใช้เป็น Adj หรือในรูป Passive Voice เรียก Past participle adjective คือ adj ที่มาจาก past participle 
+(Subj + Verb to be +past participle adj + prep) แปลว่า รู้สึก เมื่อบุคคลใดมีความรู้สึกอย่างไรต่อบุคคลอื่นหรือสิ่งอื่น เติม ed 
+หลัง Verb และมี preposition ตาม 
+เช่น   John is bored with her.   แปลว่า จอห์น เบื่อเธอ
+   She is interested in this book .  แปลว่า เธอ สนใจในหนังสือเล่มนี้

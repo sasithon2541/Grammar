@@ -1,0 +1,21 @@
+﻿		Past Perfect Tense (อดีตกาลสมบูรณ์)
+รูปแบบประโยค
+        ประธาน + had + Past Participle (กริยาช่อง 3)
+เช่น     She had slept. หล่อนได้นอนหลับแล้ว
+    He had not worked. เขาไม่ได้ทำงาน
+    I had eaten foods before you came. ฉันได้รับประทานอาหารก่อนที่คุณจะมา
+
+หลักการใช้ Past Simple Tense
+  1. แสดงเหตุการณ์ 2 อย่าง ที่เกิดขึ้นไม่พร้อมกันในอดีต เหตุการณ์หนึ่งเกิดขึ้นก่อน เราจะใช้ Past Perfect Tense
+อีกเหตุการณ์หนึ่งเกิดทีหลัง เราจะใช้ Past Simple Tense
+เช่น  When I had finished my housework, I played T.V games.
+เมื่อฉันทำงานบ้านเสร็จฉันก็เล่น T.V เกมส์ (ทำงานบ้านเสร็จก่อนแล้วจึงเล่น)
+  2. ใช้เปลี่ยน Past Simple หรือ Present Perfect ให้เป็น Indirect Speech
+เช่น  Direct Speech : “I have stayed in America for 2 years.”
+She said  หล่อนพูดว่า “ฉันเคยอยู่อเมริการมา 2 ปีแล้ว”
+   Indirect Speech : She said that she had stayed in America
+for 2 years. หล่อนพูดว่าหล่อนเคยอยู่อเมริกามา 2 ปีแล้ว
+   Direct Speech : He said “I worked in Bangkok many years.”
+เขาพูดว่า”ฉันเคยทำงานในกรุงเทพหลายปี”
+   Indirect Speech : He said that he had worked in Bangkok many years.
+เขาพูดว่าเขาเคยทำงานในกรุงเทพหลายปี

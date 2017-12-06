@@ -1,0 +1,53 @@
+﻿				Verb คำกริยา
+     Verbs คือคำกริยาที่แสดงอาการเคลื่อนไหวของประธาน (Subject) เพื่อให้ทราบการกระทำของประธาน แบ่งออกเป็น 3 ชนิด  ดังนี้
+1.Transitive Verbs คือ กริยาที่ยังไม่มีความหมายสมบูรณ์ในตัวเอง ต้องมีกรรมมารับจึงจะทำให้มีความหมายขึ้น
+	Cows eat grass.  ต้องมี grass ซึ่งเป็นกรรมมารับไว้เพื่อทำให้ประโยคสมบูรณ์ขึ้น
+2.Intransitive Verbs  คือ กริยาที่มีความหมายสมบูรณ์ได้ด้วยตัวเอง
+	John is swimming   ไม่จำเป็นต้องมีกรรม ประโยคก็สมบูรณ์
+3.Auxiliary Verbs คือ กริยาช่วย เป็นกริยาที่ช่วยให้กริยาหลักมีความหมายสมบูรณ์ขึ้นตามเหตุการณ์ต่างๆ
+
+	Tenses  ของ Auxiliary Verbs
+หลักการใช้ Auxiliary Verbs  โดยสรุปดังนี้
+     1.  กริยาที่ตามหลัง Auxiliary Verbs   จะต้องอยู่ในรูป infinitive without to เสมอ
+	She can speak  English.		You must go to the party.
+     2.   ในกรณีเป็นประโยคคำถาม จะต้องนำ Auxiliary Verbs ไว้หน้าประโยค  หรือ กรณีเป็นประโยคปฎิเสธจะต้องเติม not หลัง Auxiliary Verbs
+	She can speak English.		Can she speak English ?
+     3.   จะใช้ Auxiliary Verbs ในการตอบคำถามแบบย่อได้
+	Do you want to see my uncle?  Yes, I do.หรือ  No, I don’t.
+     4.   จะใช้ในประโยค Question Tag
+	She can speak  English, can’t she ?
+     5.   จะใช้ในประโยคที่มี too, so, either, neither
+	She speaks English and so do you.	She speaks English and you do too.
+
+	สรุปการใช้ Auxiliary Verbs โดยสังเขป
+              หลักการใช้  must , have to , must have
+      1. ใช้ในความหมายที่บอกความจำเป็นต้องกระทำ  ถ้าเป็นอดีตใช้ had to เป็นปัจจุบันใช้ must,has(have) to,has(have) got to 
+และเป็นอนาคตใช้ will(shall) have to
+	You must finish your homework.		You have to finish your homework.
+      2. การคาดคะเนหรือการแสดงความคิดเห็นเกี่ยวกับการกระทำที่เกิดขึ้นแล้ว  ใช้  must  have + V3
+	John gets good grade.  He must have studied hard.
+
+              หลักการใช้ can , could , could have, be able to
+     1.ในความหมายที่เกี่ยวกับความสามารถ  ปัจจุบันใช้ can อดีต ใช้ could หรือ was(were) + able to + V. 
+อนาคตใช้ will (shall) be able to + V.
+     2. ในความหมายเกี่ยวกับการขออนุญาตใช้ can เช่นเดียวกับใช้  may และ could  เพื่อให้สุภาพ
+	Can I take your pen?
+     3. ในประโยคเงื่อนไขใช้ could + V. แทน would หรือ should เมื่อการกระทำนั้นไม่ได้เกิดขึ้นในปัจจุบัน
+She could answer these questions if  she studied. ( but she doesn’t)
+และใช้ could have + V3  แทน would(should) have + V3  เมื่อการกระทำนั้นไม่ได้เกิดขึ้นในอดีต
+She could have answered these questions if she had studied. ( but she didn’t)
+
+              หลักการใช้ may , might , may have , might have
+     1. ในความหมายเกี่ยวกับความเป็นไปได้  may  บอกความน่าจะเป็นไปได้ในอนาคตอาจจะใช้ might แทน และ might บอกความสงสัยมากกว่า may
+เช่น  It may rain today.You should take an umbrella.มันอาจจะฝนตกวันนี้   คุณควรนำร่มมาด้วย
+I think you should take an umbrella.It might rain today.ผมคิดว่าคุณควรพกร่มมา  ผมน่าจะตกในวันนี้
+ถ้าสังเกตดูแล้ว  might จะแสดงว่าผู้พูดรู้สึกว่าฝนน่าจะตกมากกว่า การใช้ may
+     2. ในความหมายเกี่ยวกับการขอยืม , ขอร้อง , ขออนุญาต ใช้may   หรือ ต้องการให้สุภาพยิ่งขึ้น ใช้ might
+	May I borrow your notebook ?		May I play with your dog ?
+
+               หลักการใช้  should, ought to
+     1. ใช้ should ในประโยคอนาคตที่แสดงการคาดหมาย สิ่งต่างๆ จะคาดว่าจะเกิดขึ้นในอนาคต
+	John should arrive this airport at eight o’clock.
+     2.  ใช้ should, ought to แสดงการแนะนำหรือแสดงสิ่งที่จะต้องทำในปัจจุบันหรืออนาคต
+	– You should finish your homework before your father comes here.
+	– You ought to finish your homework before your father comes here.

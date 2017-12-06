@@ -1,0 +1,87 @@
+﻿            Present Continuous Tense (ปัจจุบันกาลกำลังจะทำ)
+รูปประโยค
+    I + am + กริยาช่องที่ 1 เติม ing
+           ประธานเอกพจน์ + is + กริยาช่องที่ 1 เติม ing
+           ประธานพหูพจน์ + are + กริยาช่องที่ 1 เติม ing 
+เช่น   She is running.,Is he playing football now?
+I am not sleeping.,They are walking.
+
+หลักการเติม ing
+  1.คำกริยาที่ลงท้านด้วย e ให้ตัด e ทิ้งเสียก่อนแล้วเติม ing เช่น
+    bite > biting     come > coming
+    arise > arising   write > writing
+    take > taking
+  2.กริยาที่ลงท้ายด้วย ee ให้เติม ing เลย เช่น
+    free > freeing    see > seeing
+    flee > fleeing    agree > agreeing
+  3.กริยาที่ลงท้ายด้วย ie ให้เปลี่ยน ie เป็น y แล้วเติม ing เช่น
+    lie > lying       die > dying
+    tie > tying
+   4.กริยาพยางค์เดียว มีสระตัวเดียวและมีตัวสะกดเป็นพยัญชนะตัวเดียว
+ให้เพิ่มตัวสะกดอีก 1 ตัวก่อน แล้วเติม ing เช่น
+    run > running     sit > sitting
+    hit > hitting     get > getting
+    dig > digging     rob > robbing
+
+   5.กริยาหลายพยางค์ลงท้ายด้วยพยัญชนะ 1 ตัว หน้าพยัญชนะ มีสระหนึ่งตัว
+ให้เพิ่มพยัญชนะเข้าไปอีก 1 ตัว แล้วเติม ing เช่น
+    forget > forgetting  admit > admitting
+   6.กริยามี 2 พยางค์ ซึ่งออกเสียงหนักที่พยางค์หลังมีสระตัวเดียว ตัวสะกดตัวเดียว
+ให้เพิ่มตัวสะกดเข้ามาอีกหนึ่งตัวก่อน แล้วเติม ing เช่น
+    offer > offerring   refer > referring
+    occur > occurring   begin > beginning
+  7.คำต่อไปนี้ ใช้ได้ 2 แบบ คือ trevel, quarrel เช่น
+    travel > traveling (แบบอเมริกัน)
+    travel > travelling (แบบอังกฤษ)
+    quarrel > quarreling (แบบอเมริกัน)
+    quarrel > quarrelling (แบบอังกฤษ)
+  8.กริยาตัวอื่นๆ เติม ing ได้เลย เช่น
+    hear > hearing    burn > burning
+    bend > bending    read > reading
+หลักการใช้ Present Continuous Tense
+
+  1.แสดงการกระทำที่กำลังดำเนินอยู่ในขณะพูด และคาดว่าจะสิ้นสุดลงใน
+ไม่ช้า มักมีคำเหล่านี้ คือ now, at the present time,
+at this moment etc.
+เช่น    She is eating.
+    Tom is running now.
+    We are walking.
+  2.แสดงการกระทำเริ่มก่อนพูดเป็นเวลานาน ขณะที่พูดนี้เหตุการณ์อาจไม่ได้
+กำลังเกิดขึ้นจริงๆ มักมีคำว่า this week, this month etc.
+เช่น   I am working with my teacher this summer.
+        ฉันกำลังทำงานกับครูของฉันในฤดูร้อนนี้ (ขณะที่พูดอาจทำ หรือไม่ทำอาการนี้ก็ได้)
+    Tom is working for an examination.
+        ทอมกำลังดูหนังสือสำหรับการสอบในครั้งนี้ (ขณะพูดอาจจะไม่ได้ดูหนังสือก็ได้)
+  3.ใช้แทนอนาคตกำลังจะมาถึงในไม่ช้า หรืออนาคตอันใกล้มักมี adverb of time
+(tomorrow, next week, next month etc.)
+เช่น  I am asking him tomorrow (= I will ask him tomorrow.)
+		ฉันจะถามเขาพรุ่งนี้
+He is leaving on Sunday (= He’ll leave on Sunday.)
+		เขาจะออกเดินทางในวันอาทิตย์
+  4.กริยาที่่ไม่นิยมใช้รูป Present Continuous Tense
+     4.1กริยาแสดงความรู้สึกทางประสาททั้ง 5
+    see = เห็น      notice = สังเกต
+    smell = ดมกลิ่น      taste = ชิม
+    hear = ได้ยิน            recognize = จำได้ etc.
+    4.2กริยาที่แสดงความรู้สึกทางอารมณ์ เช่น
+    love = รัก                           dislike = ไม่ชอบ
+    adore = รักยิ่ง, บูชา            forgive = อภัย
+    wish = ปรารถนา, ต้องการ     care = เอาใจใส่
+    desire = ปรารถนา             hate = เกลียด
+    want = ต้องการ                    like = ชอบ
+    refuse = ปฏิเสธ
+   4.3กริยาแสดงความคิด เช่น
+    think = คิด                        know = รู้
+    realize = ตระหนัก           recollect = จำได้
+    suppose = คิด                   recall = นึกได้
+    expect = คาดหวัง               suppose = คิด
+    understand = เข้าใจ       mean = ตั้งใจ, หมายความ
+
+believe = เชื่อ forget = ลืม
+trust = เชื่อ remember = จำได้
+
+4.4กริยาอื่นๆ เช่น
+seem = ดูราวกับว่า hold = บรรจุ
+belong = เป็นของ own = เป็นเจ้าของ
+contain = บรรจุ possess = เป็นเจ้าของ
+appear (=seem) consist = ประกอบด้วย

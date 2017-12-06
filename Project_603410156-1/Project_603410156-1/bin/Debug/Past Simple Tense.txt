@@ -1,0 +1,42 @@
+﻿		Past Simple Tense (อดีตกาลธรรมดา)
+รูปแบบประโยค
+         ประธาน + กริยาช่อง 2
+เช่น    She went home. เธอกลับบ้าน
+    I came here last night. ฉันมาที่นี่เมื่อคืน
+
+การเปลี่ยนรูปคำกริยาเป็น past tense มี 2 วิธี คือ
+     1. การเติม ed ที่ท้ายคำกริยาช่องที่ 1 (Regular Verb)
+     2. คำกริยาที่เปลี่ยนรูปใหม่ ( Irregular Verb)
+หลักการเติมเติม ed ที่ท้ายคำกริยามีดังนี้
+   1.คำกริยาโดยทั่วไปเมื่อเปลี่ยนเป็นคำกริยาช่องที่ 2 ให้เติม ed ได้เลย เช่น
+    clean – cleaned     help – helped
+    watch – watched
+   2. คำกริยาที่ลงท้ายด้วย e อยู่แล้ว ให้เติม d ได้ทันทีเช่น
+    like – liked        bake – baked
+    live – lived
+  3. คำกริยาที่เป็นพยางค์เดียว มีสระตัวเดียว ตัวสะกดตัวเดียว ให้เพิ่มตัวสะกดตัวท้ายอีกหนึ่งตัวก่อน แล้วจึงเติม ed เช่น
+    stop – stopped      fit – fitted
+    plan – planned
+  4. คำกริยาที่มี 2 พยางค์ ออกเสียงเน้นหนักพยางค์หลังให้เพิ่มตัวสะกดตัวท้ายอีกหนึ่งตัวก่อน แล้วจึงเติม ed
+    prefer – preferred   control – controlled
+  5. คำกริยาที่ลงท้ายด้วย yและหน้า y เป็นพยัญชนะ ให้เปลี่ยน y เป็น i แล้วจึงเติม ed เช่น
+    study – studied      cry – cried
+    carry – carried
+แต่ถ้าหน้า y เป็นสระให้เติม ed ได้เลย เช่น
+    play played          stay – stayed
+
+หลักการใช้ Past Simple Tense
+  1.ใช้กับเหตุการณ์ที่เกิดขึ้นในอดีต และจบสิ้นลงไปแล้วในอดีตเช่นกัน มักมีคำว่า once, ago, last night,
+last week, last year etc.
+เช่น     I got sick yesterday. ฉันป่วยเมื่อวานนี้
+    I lived in Phuket 3 years ago. ฉันอยู่ที่ภูเก็ตเมื่อ 3 ปีที่แล้ว
+    She went to the university last week. หล่อนไปมหาวิทยาลัยเมื่อสัปดาห์ที่แล้ว
+  2.แสดงเหตุการณ์ที่เป็นนิสัย ที่ทำประจำในอดีต (ปัจจุบันไม่ได้กระทำแล้ว) มักมี adverb ความถี่อยู่ด้วย
+เช่น always, every, frequently etc.
+เช่น  Chris walked every morning. คริสเดินทุกๆเช้า (เป็นนิสัยในอดีต ปัจจุบันไม่ได้กระทำแล้ว)
+   He always woke up late last year. เขาตื่นนอนสายเสมอๆเมื่อปีที่แล้ว
+   When I was young. I listened to the radio every night.
+เมื่อฉันเป็นเด็ก ฉันฟังวิทยุทุกคืน
+  3.แสดงถึงการกระทำทั้งสองอย่างที่เกิดในเวลาเดียวกัน มักมีคำว่า as, while อยู่ด้วย
+เช่น  While she sang, I danced. ขณะที่หล่องร้องเพลง ฉันเต้นรำ
+As she cooked, her son played football. ขณะที่หล่อนทำอาหาร ลูกชายของเธอก็เล่นฟุตบอล

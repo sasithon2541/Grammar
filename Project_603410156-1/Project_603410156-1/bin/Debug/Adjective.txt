@@ -1,0 +1,70 @@
+﻿				Adjective คำคุณศัพท์
+     Adjective(แอด’เจคทิฟว) หมายถึง คำที่ทำหน้าที่ขยายคำนามหรือคำสรรพนามเพื่อให้มีความสมบูรณ์มากขึ้น  เช่น คำที่แสดงจำนวน, แสดงความเป็นเจ้าของ,
+ แสดงขนาด, รูปร่าง, น้ำหนัก, ความสูง, บอกสี, เชื้อชาติ, ภาษา เป็นต้น
+             ตำแหน่งการวาง Adjectives (คำคุณศัพท์)
+  1.adjective นำหน้าคำนาม
+     a beautiful woman,  a rich man
+  2.adjective อยู่หลัง linking verb (Verb to be,become,get,grow,feel,look,appear,seem,smell 
+etc. คำกิริยาเหล่านี้ต้องตามหลังด้วย Adjectives เสมอ
+     	John looks smart.		Mary feels happy.
+     3. อยู่หลัง adjective หลายตัวด้วยกัน โดยขยายคำนาม หรือสรรพนามได้
+	old blue shirt.			new black shoes.
+  4.adjective อยู่หลังคำนามหรือคำสรรพนามที่เป็นกรรมของกิริยาบางคำ เช่น like,get,make,etc.
+	You made me happy.
+การเรียงลำดับ adjective (คำคุณศัพท์) กรณีที่มี adjective ที่ขยายคำนามหรือสรรพนามหลายตัว
+
+การเปรียบเทียบคำคุณศัพท์  Comparison of Adjectives
+  1. Positive Degree  เป็นการเปรียบเทียบ adjective ขั้นธรรมดา  เพื่อแสดงความเท่าเทียมกันของบุคคล 2 คนหรือสิ่งของสองสิ่ง
+รูปประโยคบอกเล่า  ใช้  as + adj + as
+รูปประโยคปฏิเสธ ใช้  not + (so, as) + adj + as
+	Mary is as pretty as her sister.	Mary is not so pretty as her sister.
+	Mary is not as pretty as her sister.
+  2. Comparative Degree  เป็นการเปรียบเทียบ adjective ขั้นกว่า  เพื่อแสดงความไม่เท่าเทียมกันของบุคคล 2 คนหรือสิ่งของ 2 สิ่ง โดย
+*การเติม -er ท้าย Adjective  และตามด้วย than
+	This wood is thicker than that one.
+*การเติม more หรือ less หน้า Adjective และตามด้วย than
+	This car is more comfortable than that one.	
+	This car is less comfortable than that one.
+3. Superlative Degree  เป็นการเปรียบเทียบ adjective ขั้นสูงสุดของบุคคลหรือสิ่งต่างๆ มากกว่าสองขึ้นไป  โดย
+*การเติม est ท้าย Adjective และใส่ the หน้าคำ Adjective
+	Mary is the eldest sister in this family.
+*การเติม the most หน้าคำ Adjective
+	Eddy is the most handsome man in this city.
+
+เกณฑ์ในการเปลี่ยน Adjective ให้เป็นขั้นกว่า และขั้นสูงสุด
+  1. คำ Adjective พยางค์เดียวเติม er เมื่อเป็นขั้นกว่าและเติม est เมื่อเป็นขั้นสูงสุด
+	old       older     oldest    
+        few       fewer     fewest
+  2. คำ Adjective พยางค์เดียวลงท้ายด้วย e เติม r เมื่อเป็นขั้นกว่า และเติม st เมื่อเป็นขั้นสูงสุด
+	late      later      latest
+	wide      wider      widest
+  3. คำ Adjective ที่ลงท้ายด้วย y หน้า y เป็นพยัญชนะควรเปลี่ยน y เป็น i แล้วเติม er เมื่อเป็นขั้นกว่า และเติม est เมื่อเป็นขั้นสูงสุด
+	early     earlier    earliest
+	pretty    prettier   prettiest
+  4. คำ Adjective พยางค์เดียวที่มีตัวสะกดตัวเดียวและสระตัวเดียว  จะต้องเพิ่มตัวสะกดตัวสุดท้ายอีกหนึ่งตัวก่อนแล้วเติม er 
+เมื่อเป็นขั้นกว่า และเติม est เมื่อเป็นขั้นสูงสุด
+	big       bigger     biggest
+	hot       hotter     hottest
+  5. คำ Adjective ที่มีสองพยางค์และเสียงเน้นหนักที่พยางค์แรก อาจจะเติม er หลังคำ Adjective หรือ more หน้า Adjective 
+เมื่อเป็นขั้นกว่า และ เติม est  หลังคำ Adjective หรือ most หน้า Adjective เมื่อเป็นขั้นสูงสุด
+	quiet     quieter          quietest
+	quiet     more quiet       most quiet
+	common    commoner         commonest
+	common     more common      most common
+  6. คำ Adjective ที่มีสองพยางค์ขึ้นไป เติม more เมื่อเป็นขั้นกว่า และเติม most เมื่อเป็นขั้นสูงสุดหน้าคำคุณศัพท์
+	beautiful        more beautiful        most beautiful
+	comfortable      more comfortable      most comfortable
+  7. คำ Adjective บางตัวเปลี่ยนรูปเมื่อเป็นขั้นกว่าและขั้นสูงสุด
+	bad          worse           worst
+	good         better          best
+	much         more            most
+  8. คำ Adjective ที่มาจาก participle เติม more เมื่อเป็นขั้นกว่า และเติม most เมื่อเป็นขั้นสูงสุด
+	excited      more excited       most excited
+	amusing      more amusing       most amusing
+
+Possessive Adjectives
+    Possessive Adjectives หมายถึงคำคุณศัพท์ที่แสดงความเป็นเจ้าของโดยมีคำนามตามหลัง
+ เช่น   his,her,its,my,your,our,their
+    Possessive Pronouns หมายถึงคำสรรพนามที่แสดงความเป็นเจ้าของโดยไม่มีคำนามตามหลัง
+ เช่น   his,hers,mine,yours,ours,theirs
+

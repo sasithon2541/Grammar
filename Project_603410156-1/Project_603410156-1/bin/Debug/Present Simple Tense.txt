@@ -1,0 +1,48 @@
+﻿           Present Simple Tense (ปัจจุบันกาล)
+โครงสร้างประโยค
+       ประธาน + กริยาช่องที่ 1
+       ถ้าประธานเป็นบุรุษที่ 3 เอกพจน์ + กริยาช่องที่ 1 เติม s หรือ es
+เช่น  I go… / You go… / He goes… / They go…
+She sings a song. แปลว่า หล่อนร้องเพลง
+He plays football. แปลว่า เขาเล่นฟุตบอล
+She is not here. หรือ  She isn’t here. แปลว่า หล่อนไม่อยู่ที่นี่
+We are not drivers. หรือ We aren’t drivers. แปลว่า พวกเราไม่ใช่คนขับรถ
+       ประโยคปฏิเสธและคำถามเราจะใช้ Verb to do มาช่วย เช่น
+You do not like apple. หรือ You don’t like apple.
+She does not eat meat. หรือ She doesn’t eat meat.
+Do you like it?,Does he like it?
+
+      หลักการเติม ‘s,es’ ที่คำกริยา
+1.เติม s หลังคำกริยานั้นๆ เช่น
+    He eats. She sings. A tiger runs.
+2.ถ้ากริยาลงท้ายด้วย s, sh, ch, x, o, z, ss ให้เติม es เช่น
+    He teaches English.      She goes away.
+    She brushes her teeth.
+3.ถ้ากริยาลงท้ายด้วย y และหน้า y เป็นพยัญชนะ ให้เปลี่ยน y เป็น i แล้วเติม es เช่น
+    He tries to study.       She studies English.
+หมายเหตุ ถ้าหน้า y เป็นสระ ไม่ต้องเปลี่ยน y เป็น i ให้เติม s ได้เลย เช่น
+play – plays = เล่น                                pay – pay = จ่าย
+destroy – destroys = ทำลาย
+
+หลักการใช้ Present Simple Tense สรุปได้ดังนี้
+  1.แสดงลักษณะความจริงอยู่เสมอ ไม่ว่า เหตุการณ์จะผ่านไปเท่าใดก็ตาม เช่น
+    The earth moves around the sun.โลกหมุนรอบดวงอาทิตย์
+    The sun rises in the east and sets in the west.
+                            ดวงอาทิตย์ขึ้นทางทิศตะวันออกและตกทางทิศตะวันตก
+    The earth is round. โลกกลม
+    Water freezes at 0 C.   น้ำมีจุดเยือกแข็งที่ 0 องศาเซลเซียส
+  2.การกระทำที่เกิดขึ้นเสมอๆ, เกิดขึ้นจนเป็นนิสัย หรือ ประเพณีนิยม มักจะมี adverb of frequency ประกอบในประโยค เช่น
+every day, usually, sometimes, frequently, always, naturally, 
+generally, rarely, seldom, never etc.
+    She gets up at six o’clock. หล่อนตื่นนอน 6 โมงเช้า (ตื่นเวลานี้จนเป็นนิสัย)
+    He runs every morning. เขาวิ่งทุกๆเช้า
+    John often drinks beer. จอห์นมักจะดื่มเบียร์
+    She never sits in front of the church. หล่อนไม่เคยนั่งข้างหน้าของโบสถ์เลย
+  3.แสดงเหตุการณ์หรือกิจกรรมต่างๆที่รู้ล่วงหน้าว่าจะเกิดขึ้นในอนาคตอันใกล้ เช่น
+    I go to Chiangmai in the afternoon. ฉันจะไปเชียงใหม่ในตอนบ่าย
+    He starts to study in five minutes. เขาจะเริ่มเรียนภายใน 5 นาที
+    The concert begins at 1.30. คอนเสิร์ตเริ่มเวลา 1.30 นาฬิกา
+  4.ใช้กับสุภาษิต คำพังเพย เช่น
+    New brooms sweep clean. ไม้กวาดใหม่ย่อมกวาดสะอาดกว่า
+    Money makes friend. เงินทองอาจทำให้ท่านมีเพื่อนฝูงมาก
+    Health is wealth. ความไม่มีโรค เป็นลาภอันประเสริฐ

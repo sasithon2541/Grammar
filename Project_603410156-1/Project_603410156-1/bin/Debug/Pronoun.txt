@@ -1,0 +1,101 @@
+﻿				Pronoun คำสรรพนาม
+    Pronoun อ่านว่า โพร’เนานฺ หมายถึง คำสรรพนาม ก็คือคำที่ใช้แทนคำนาม (Noun) และทำหน้าที่เช่นเดียวกับคำนามในภาษาอังกฤษ
+Pronoun  (คำสรรพนาม) แบ่งออกเป็น 5 ประเภท
+รูปประธาน      รูปกรรม	รูปแสดงความเป็นเจ้าของ 	รูปความเป็นเจ้าของ 	รูป self-form
+  I 	       me 	    	 	my 	 	  mine         	   myself
+ You 	      you 	  	 	 your 	 	 yours 		  yourself
+  We 	       us 	   	 	 our 	 	  ours 	 	ourselves
+ They 	      them 	   		 their 	  	theirs 		 themselves
+ He 	       him 	   		  his 	  	  his 	 	   himself
+She 	       her 	    		 her 	  	 hers 	  	   herself
+ It 	       it 	    		 its 	  	 (its) 	  	   itself
+ข้อควรรู้ การใช้ Pronoun คำว่า you เป็นได้ทั้ง pronoun (คำสรรพนาม) เอกพจน์และ pronoun พหูพจน์ (คุณ 1 คน หรือ พวกคุณหลายคน)
+	1. Personal Pronouns หมายถึง คำสรรพนามที่ใช้แทนนามบุรุษที่ 1 (ผู้พูด)  นามบุรุษที่ 2 (ผู้ฟัง) 
+ นามบุรุษที่ 3 (ผู้ที่ถูกกล่าวถึง อาจเป็นคน สัตว์ และสิ่งของ)
+Personal Pronouns  แบ่งได้ 2 รูป  คือ
+	1. Personal Pronouns รูปประธาน หมายถึง คำสรรพนามที่ใช้เป็นประธาน ได้แก่  I, You, We, They,
+ He, She, It  เป็นต้น
+ตัวอย่างประโยคภาษาอังกฤษ
+	We are students. = พวกเราเป็นนักเรียน
+	He is a teacher. = เขา (ผู้ชาย) เป็นครู
+	2. Personal Pronouns รูปกรรม  หมายถึง คำสรรพนามที่ใช้เป็นกรรมของประโยค
+ตัวอย่างประโยคภาษาอังกฤษ
+	She asks me to teach her homework. = หล่อนขอให้ฉันสอนการบ้านให้
+	She asks him to teach her homework. = หล่อนขอให้เขาสอนการบ้านให้
+
+หลักการใช้ Personal Pronouns
+                1. หลัง than , as….as  จะใช้รูปประธานหรือรูปกรรม  ต้องดูความหมายของประโยค  ถ้ามี verb 
+ตามมาใช้รูปประธาน  ถ้าเป็นกรรมของ verb ที่อยู่ข้างหน้าใช้รูปกรรม เช่น
+รูปประธาน (ไม่นิยมใช้)
+	He is smarter than she is.	He is as smart as she is.
+รูปกรรม
+	He likes you more than me.	He likes you as much as me.
+                2. หลังกิริยาที่บอกสภาพ ได้แก่ be , seem , look , like , appear มักจะใช้รูปกรรม เช่น
+His father looks like him.
+                3. หลัง between …and …., let, except ใช้ในรูปกรรม เช่น
+Let us go out.
+There are some problems between you and me.
+
+การใช้  He , She , It
+1. เพศชายและไม่บ่งเพศ ใช้ He
+2.He, She นอกจากใช้แทนคนแล้วยังใช้แทนสัตว์เลี้ยงได้
+3.She อาจใช้แทนสิ่งไม่มีชีวิตได้เมื่อกล่าวถึงคุณสมบัติหรือความรู้สึก เช่น เรือ, รถไฟ, เครื่องบิน
+4.She ใช้แทนประเทศในแง่ของหน่วยหนึ่งทางการเมืองและวัฒนธรรม
+5.It ใช้กับสัตว์และเด็กเล็กที่ไม่ทราบเพศหรือไม่คำนึงถึงเพศ
+
+	2. Possessive Pronouns หมายถึง คำสรรพนามที่แสดงความเป็นเจ้าของ  เช่น his , hers , theirs , mine 
+, ours , yours
+หลักการใช้ Possessive Pronouns
+      1. ใช้เป็นประธานของกิริยาหรือเป็นกรรมของกิริยา หรือของบุพบท
+	Her car is red, but yours is blue.  (yours แทน your car)
+ย้อนดูที่ตารางด้านบน สำหรับรูปแสดงความเป็นเจ้าของ ต้องตามด้วยคำนาม แต่รูปความเป็นเจ้าของ ไม่ต้องมีคำนามตามมา (เนื่องจากรู้กันอยู่แล้ว) ลองดูตัวอย่าง 2 ประโยคนี้
+	He is my boyfriend. = เขาเป็นแฟน(ชาย)ของฉัน
+	He is mine. = เขาเป็นของฉัน
+      2. ใช้หลัง of  หมายถึง หนึ่งในบรรดา (คน , ตัว , สิ่ง , อัน) ทั้งหลายเหล่านี้
+	John is a teacher of  mine.  (mine แทน my teacher)
+
+	3. Reflexive and Emphasizing Pronouns หมายถึง Pronouns ที่ลงท้ายด้วย self และ selves โดยทำหน้าที่แตกต่างกัน
+		   เอกพจน์                  		พหูพจน์
+		himself                        		themselves
+		herself                        		themselves
+		itself                         		themselves
+		myself                        		 ourselves
+		yourself                       		yourselves
+		oneself                            	     –
+หลักการใช้ Reflexive Pronouns และ Emphasizing Pronouns
+    1. Reflexive Pronouns ใช้เป็นกรรมของประโยค เมื่อการกระทำนั้นสะท้อนถึงประธานหรือผู้พูดเป็นผู้รับการกระทำนั้นเอง  ประธานและกรรมจะเป็นคน หรือสิ่งเดียวกัน
+I saw myself in the mirror.
+          2. ใช้เน้นประธาน  ซึ่งจะอยู่หลังประธานหรือท้ายประโยค
+I go to school by myself.
+
+	4. Indefinite Pronouns คือ คำสรรพนามที่ไม่ชี้เฉพาะเจาะจงว่าเป็นใคร สิ่งใดหรืออันใด  จะมีทั้งเอกพจน์และพหูพจน์
+1. Indefinite Pronouns แบบเอกพจน์  ได้แก่
+  a person    anybody       one          someone       anyone
+  each          either      neither      everybody     everyone
+  another      anything     something    the other     nothing
+  much         everything   nobody       no one        somebody
+หมายเหตุ – การใช้ one….another , one… the other
+      1.1. ถ้าหมายความว่า “ไม่…ใดก็…หนึ่ง” หรือ “อีกหนึ่ง” ใช้ one คู่กับ another  ได้
+      1.2. ถ้ามีเพียงสองจำนวน หรือ สองส่วนเท่านั้น   ใช้ one คู่กับ the other ได้
+เช่น Mary buys two bicycles, one for her daughter , and the other for her son.
+2. Indefinite Pronouns  แบบพหูพจน์  ใช้คำสรรพนามรูปพหูพจน์  กิริยาจะเป็นพหูพจน์ด้วย
+เช่น  both , few, many several.
+
+	5. Relative Pronouns คือ สรรพนามที่ใช้แทนคำนามที่อยู่ข้างหน้า  โดยทำหน้าที่เชื่อม clauses เข้าด้วยกัน
+เช่น who , whom , whose , which , that , as 
+Relative Pronouns  แบ่งตามหน้าที่ได้ดังนี้
+1. Personal  (คน) ได้แก่
+   – who ใช้แทนคำนามที่ทำหน้าที่เป็นประธานทั้งเอกพจน์และพหูพจน์
+      A student who pays attention in the class gets a good grade.
+      People who live in Bangkok cope with the traffic problem.
+   – whom ใช้แทนคำนามที่ทำหน้าที่เป็นกรรมทั้งเอกพจน์และพหูพจน์
+      The teacher whom I met yesterday is your uncle.
+   – whose  ใช้แทนคำนามที่ทำหน้าที่แสดงความเป็นเจ้าของ
+      This woman whose purse was lost  is going to  see the police.
+2. Non-Personal (สัตว์, สิ่งของ) ได้แก่
+   – which  ใช้แทนคำนามที่ทำหน้าที่เป็นประธานและกรรม
+     The gift which I bought yesterday is so expensive.
+ในกรณีที่ which เป็น กรรมของ preposition จะต้องเอาpreposition มาไว้ข้างหน้า which ด้วย
+This is the house in which Mary lives.	This is the thesis to which John refer.
+หากเป็นการใช้ เกี่ยวกับสถานที่ in which , to which เช่น
+This is the house in which Mary lives. เป็น  This is the house where Mary lives.

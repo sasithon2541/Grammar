@@ -1,0 +1,48 @@
+﻿				Adverb กริยาวิเศษณ์
+     Adverbs หมายถึง คำที่ทำหน้าที่ขยายกริยา คำคุณศัพท์ กริยาวิเศษณ์  แบ่งออกเป็น 7 ชนิด คือ
+1.Adverb of manner  คือคำกริยาวิเศษณ์ที่บอกคุณลักษณะ  เช่น fast , well , hard etc.
+2.Adverb of place  คือคำกริยาวิเศษณ์ที่บอกสถานที่ เช่น there , here , up , down etc.
+3.Adverb of time  คือคำกริยาวิเศษณ์ที่บอกเวลา เช่น now , today , soon  etc.
+4.Adverb of frequency  คือคำกริยาวิเศษณ์ที่บอกความถี่ เช่น often , always , usually  etc.
+5.Adverb of degree  คือคำกริยาวิเศษณ์ที่บอกระดับ  เช่น rather , too , very  etc.
+6.Interrogative Adverbs  คือคำกริยาวิเศษณ์ที่เป็นคำถาม  เช่น where , when , why  etc.
+7.Relative Adverbs คือกริยาวิเศษณ์ที่เป็นคำเชื่อม  เช่น when , where , why  etc.
+
+	การเปรียบเทียบ Adverb กริยาวิเศษณ์  มี 3 ขั้น  ดังนี้
+1.Positive Degree  เป็นการเปรียบเทียบขั้นธรรมดา
+    – เปรียบเทียบความเท่ากัน ใช้ as + adv + as
+    – เปรียบเทียบความไม่เท่ากัน ใช้ not + so(as) + adv + as
+    – เปรียบเทียบขั้นธรรมดาใช้ very ขยายหน้า adverb
+หลักการเปลี่ยน Adverb เป็นขั้นกว่าและขั้นสูงสุด  มีดังนี้
+      1. ถ้ามีพยางค์เดียวเติม er  เมื่อเป็นขั้นกว่า  และเติม est เมื่อเป็นขั้นสูงสุด
+      2. ถ้ามี 2 พยางค์ขึ้นไปเติม more หน้า adverb เมื่อเป็นขั้นกว่า และเติม most หน้า adverb เมื่อเป็นขั้นสุด
+  3.adverb บางตัวเปลี่ยนรูปเมื่อเป็นขั้นกว่าและขั้นสุด
+2.Comparative Degree  เป็นการเปรียบเทียบขั้นกว่า
+    – เป็นการเปรียบเทียบเฉพาะ 2 สิ่ง  ต้องมี than  ตามหลังเสมอ
+    – เป็นการเปรียบเทียบขั้นกว่า ใช้ much ขยายหน้า adverb ขั้นกว่า
+    – ใช้ the นำหน้าขั้นกว่าเมื่อมีคำว่า of the two  เสมอ
+    – ใช้ the หน้า Adverb ขั้นกว่า และมีความหมายว่า by so much (ยิ่ง…เท่าไร…ยิ่ง….เท่านั้น)
+3.Superlative Degree  เป็นการเปรียบเทียบขั้นสุดตั้งแต่ 3 ขึ้นไป มักจะใช้ the นำหน้า
+
+	Adverb clauses
+Adverb clauses  คืออนุประโยคที่ทำหน้าที่เหมือน Adverb แบ่งได้ดังนี้
+    1.Adverb Clause of Time  คืออนุประโยคที่ทำหน้าที่ขยายกริยา เพื่อบอกให้ทราบการกระทำนั้นเกิดขึ้นเมื่อไหร่  เช่น
+when ,while , since , as soon as , as long as , before , after , until
+    2.Adverb Clause of Place  คืออนุประโยคที่ทำหน้าที่ขยายกริยาเพื่อบอกให้ทราบว่าการกระทำนั้นเกิดขึ้นที่ไหน เช่น
+where , as far as , wherever
+    3.Adverb Clause of Cause  คืออนุประโยคที่ทำหน้าที่ขยายกริยา เพื่อบอกให้ทราบการกระทำนั้นเกิดขึ้นเพราะอะไร  เช่น
+because , since , as
+    4.Adverb Clause of Purpose  คืออนุประโยคที่ทำหน้าที่ขยายกริยา เพื่อบอกให้ทราบการกระทำนั่นเกิดขึ้นด้วยความมุ่งหมายอะไร  เช่น
+ that , so that , in order that , lest , for fear that
+    5. Adverb Clause of Result  คืออนุประโยคที่บอกผลที่เกิดจากการกระทำอย่างใดอย่างหนึ่ง  ได้แก่
+so + adj or adv + that
+such + noun(s) + that
+    6. Adverb Clause of Condition  คืออนุประโยคที่บอกให้ทราบว่าการกระทำนั้นเกิดขึ้นด้วยเงื่อนไขอะไร  เช่น 
+if , if only , unless , as long as , so long as
+    7.Adverb Clause of Concession คืออนุประโยคที่แสดงการยอมรับอย่างใดอย่างหนึ่ง  เช่น
+ though , although , even though , however , whatever
+    8. Adverb Clause of Manner  คืออนุประโยคที่ทำหน้าที่ขยายกริยาเพื่อบอกอาการของการกระทำว่ากระทำไปอย่างไร  เช่น
+as , as if , as though
+    9.Adverb Clause of Comparison คืออนุประโยคที่ใช้ในการเปรียบเทียบ  ปกติจะอยู่หลัง as  หรือ  than
+	– ประโยคบอกเล่า  as + adj หรือ (adv) + as
+	– ประโยคปฏิเสธ   not so(as) + adj  หรือ (adv) + as
