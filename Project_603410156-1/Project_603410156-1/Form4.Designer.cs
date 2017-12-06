@@ -125,7 +125,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.MaximizeBox = false;
             this.Name = "Form4";
             this.Text = "Part Of Speech";
             this.TopMost = true;

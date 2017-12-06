@@ -125,5 +125,133 @@ namespace Project_603410156_1
         {
 
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int a=0;
+            if (radioButton3.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton5.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton10.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton16.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton18.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton40.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton36.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton32.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton28.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton24.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton122.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton56.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton46.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton42.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton84.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton90.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton86.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton94.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton58.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton106.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton103.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton99.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton75.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton72.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton67.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton61.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton10.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton115.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton77.Checked == true)
+            {
+                a += 1;
+            }
+            if (radioButton111.Checked == true)
+            {
+                a += 1;
+            }           
+            label34.Text = a.ToString();
+
+            label36.Text = ((double.Parse(a.ToString()) / 30) * 100).ToString();
+        }
     }
 }

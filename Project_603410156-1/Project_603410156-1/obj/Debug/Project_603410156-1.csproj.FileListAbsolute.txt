@@ -13,3 +13,18 @@ C:\Users\User\Documents\Visual Studio 2017\Project\Project_603410156-1\Project_6
 C:\Users\User\Documents\Visual Studio 2017\Project\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156_1.Form4.resources
 C:\Users\User\Documents\Visual Studio 2017\Project\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156_1.Form5.resources
 C:\Users\User\Documents\Visual Studio 2017\Project\Project_603410156-1\Project_603410156-1\bin\Debug\StemmersNet.dll
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\bin\Debug\Project_603410156-1.exe.config
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\bin\Debug\Project_603410156-1.exe
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\bin\Debug\Project_603410156-1.pdb
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\bin\Debug\StemmersNet.dll
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156-1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156_1.Form1.resources
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156_1.Form2.resources
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156_1.Form3.resources
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156_1.Form4.resources
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156_1.Form5.resources
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156_1.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156-1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156-1.exe
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156-1.pdb

@@ -125,7 +125,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            this.MaximizeBox = false;
             this.Name = "Form3";
             this.Text = "Tense";
             this.Load += new System.EventHandler(this.Form3_Load);
