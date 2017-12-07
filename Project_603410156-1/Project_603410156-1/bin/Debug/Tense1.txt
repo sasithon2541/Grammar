@@ -1,0 +1,20 @@
+﻿	Tense แปลว่า กาล หรือ เวลา คือรูปของกริยาภาษาอังกฤษ (verb) ที่บ่งบอกว่าการกระทำหรือเหตุการณ์นั้นเกิดขึ้นเมื่อใด ปัจจุบัน (Present Tense) อดีต (Past Tense) อนาคต (Future Tense) ซึ่งในการดูโครงสร้างประโยคภาษาอังกฤษต่างๆ นั้น ผู้เรียนภาษาอังกฤษจะต้องเรียนรู้เรื่องของ Part of speech 
+โครงสร้าง Tense ต่างๆ ในภาษาอังกฤษ 12 แบบ
+Tense สำหรับปัจุบัน
+ Present Simple Tense			Subject + Verb 1 (ใช้กฎ การเติม s, es)
+ Present Continuous Tense		Subject + is /am / are + Verb ing
+ Present Perfect Tense			Subject + have / has + Verb 3
+ Present Perfect Continuous Tense		Subject + have / has + been + Verb ing
+
+Tense สำหรับอดีต
+ Past Simple Tense			Subject + Verb 2
+ Past Continuous Tense			Subject + was / were + Verb ing
+ Past Perfect Tense			Subject + had + Verb 3
+ Past Perfect Continuous Tense		Subject + had + been + Verb ing
+
+Tense สำหรับอนาคต
+ Future Simple Tense			Subject + will / shall + Verb 1
+ Future Continuous Tense		Subject + will / shall + be + Verb ing
+ Future Perfect Tense			Subject + will / shall + have + Verb 3
+ Future Perfect Continuous Tense		Subject + will / shall + have + been 
+				+ Verb ing

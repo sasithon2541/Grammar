@@ -57,6 +57,7 @@
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(259, 29);
             this.comboBox1.TabIndex = 2;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // button1
             // 
@@ -64,7 +65,7 @@
             this.button1.BackColor = System.Drawing.Color.Aqua;
             this.button1.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Navy;
-            this.button1.Location = new System.Drawing.Point(395, 77);
+            this.button1.Location = new System.Drawing.Point(395, 74);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(81, 36);
             this.button1.TabIndex = 3;
@@ -78,7 +79,7 @@
             this.button2.BackColor = System.Drawing.Color.Yellow;
             this.button2.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.Green;
-            this.button2.Location = new System.Drawing.Point(493, 77);
+            this.button2.Location = new System.Drawing.Point(493, 74);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(80, 37);
             this.button2.TabIndex = 4;

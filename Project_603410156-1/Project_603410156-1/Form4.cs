@@ -34,6 +34,10 @@ namespace Project_603410156_1
             string t;
             switch (comboBox1.Text)
             {
+                case "Part Of Speech":
+                    t = File.ReadAllText("Part of speech1.txt");
+                    tb1.Text = t.ToString();
+                    break;
                 case "Nouns":
                     t = File.ReadAllText("Nouns.txt");
                     tb1.Text = t.ToString();
@@ -66,7 +70,7 @@ namespace Project_603410156_1
                     t = File.ReadAllText("Active & Passive Voice.txt");
                     tb1.Text = t.ToString();
                     break;
-                default: break;
+                default: MessageBox.Show("กรุณาเลือกข้อมูล"); break;
             }
         }
         
@@ -84,6 +88,10 @@ namespace Project_603410156_1
             comboBox1.Items.Add("Conjunction");
             comboBox1.Items.Add("Interjection");
             comboBox1.Items.Add("Active & Passive Voice");
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
         }
     }
 }

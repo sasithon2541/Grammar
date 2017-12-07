@@ -22,6 +22,11 @@ namespace Project_603410156_1
             string k;
             switch (comboBox1.Text)
             {
+
+                case "Tense":
+                    k = System.IO.File.ReadAllText(Application.StartupPath + @"\Tense1.txt");
+                    tb1.Text = k.ToString();
+                    break;
                 case "Present Simple Tense":
                     k = System.IO.File.ReadAllText(Application.StartupPath + @"\Present Simple Tense.txt");
                     tb1.Text = k.ToString();
@@ -70,7 +75,7 @@ namespace Project_603410156_1
                     k = System.IO.File.ReadAllText(Application.StartupPath + @"\Future Perfect Continuous Tens .txt");
                     tb1.Text = k.ToString();
                     break;
-                default: break;
+                default: MessageBox.Show("กรุณาเลือกข้อมูล"); break;
             }
         }
 
