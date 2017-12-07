@@ -82,7 +82,7 @@ namespace Project_603410156_1
             {
                 tabControl1.TabPages.Insert(2, tabPage3);
                 tabControl1.SelectedIndex = 2;
-                ok = true;
+                g = true;
                 tabControl1.SelectedTab = tabPage3;
             }
             else tabControl1.SelectedTab = tabPage3;
@@ -96,7 +96,7 @@ namespace Project_603410156_1
             {
                 tabControl1.TabPages.Insert(3, tabPage4);
                 tabControl1.SelectedIndex = 3;
-                ok = true;
+                y = true;
                 tabControl1.SelectedTab = tabPage4;
             }
             else tabControl1.SelectedTab = tabPage4;
@@ -110,7 +110,7 @@ namespace Project_603410156_1
             {
                 tabControl1.TabPages.Insert(4, tabPage5);
                 tabControl1.SelectedIndex = 4;
-                ok = true;
+                t = true;
                 tabControl1.SelectedTab = tabPage5;
             }
             else tabControl1.SelectedTab = tabPage5;
@@ -250,8 +250,8 @@ namespace Project_603410156_1
                 a += 1;
             }           
             label34.Text = a.ToString();
-
-            label36.Text = ((double.Parse(a.ToString()) / 30) * 100).ToString();
+            
+            label36.Text = ((double.Parse(a.ToString()) / 30) * 100 + " %").ToString();
         }
     }
 }
