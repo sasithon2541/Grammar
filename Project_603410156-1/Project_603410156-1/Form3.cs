@@ -77,11 +77,13 @@ namespace Project_603410156_1
         private void button2_Click(object sender, EventArgs e)
         {
             tb1.Text = "";
+            comboBox1.SelectedIndex = 0;
         }
 
         private void Form3_Load(object sender, EventArgs e)
         {
             comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBox1.Items.Add("Tense");
             comboBox1.Items.Add("Present Simple Tense");
             comboBox1.Items.Add("Present Continuous Tense ");
             comboBox1.Items.Add("Present Perfect Tense ");

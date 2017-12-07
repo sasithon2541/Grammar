@@ -21,6 +21,7 @@ namespace Project_603410156_1
         private void button2_Click(object sender, EventArgs e)
         {
             tb1.Text = "";
+            comboBox1.SelectedIndex = 0;
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -68,10 +69,12 @@ namespace Project_603410156_1
                 default: break;
             }
         }
+        
 
         private void Form4_Load(object sender, EventArgs e)
         {
             comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBox1.Items.Add("Part Of Speech");
             comboBox1.Items.Add("Nouns");
             comboBox1.Items.Add("Pronoun");
             comboBox1.Items.Add("Adjective");
