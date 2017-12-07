@@ -35,10 +35,13 @@
             this.bt3 = new System.Windows.Forms.Button();
             this.bt2 = new System.Windows.Forms.Button();
             this.bt1 = new System.Windows.Forms.Button();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -126,11 +129,63 @@
             this.bt1.UseVisualStyleBackColor = false;
             this.bt1.Click += new System.EventHandler(this.bt1_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.label1.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Maroon;
+            this.label1.Location = new System.Drawing.Point(34, 109);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(503, 84);
+            this.label1.TabIndex = 0;
+            this.label1.Text = resources.GetString("label1.Text");
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.label3.Location = new System.Drawing.Point(37, 75);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(340, 21);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "GitHub      :    https://github.com/sasithon2541/Grammar";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.Color.Teal;
+            this.label4.Location = new System.Drawing.Point(37, 185);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(279, 42);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Verbs         :    http://www.กริยา3ช่อง.com/\r\n\r\n";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.Purple;
+            this.label5.Location = new System.Drawing.Point(37, 227);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(309, 63);
+            this.label5.TabIndex = 4;
+            this.label5.Text = "Content    :    http://www.tonamorn.com/grammar/\r\n\r\n\r\n";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
+            // 
             // tabPage2
             // 
             this.tabPage2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.tabPage2.Controls.Add(this.label3);
             this.tabPage2.Controls.Add(this.label2);
+            this.tabPage2.Controls.Add(this.label6);
+            this.tabPage2.Controls.Add(this.label5);
+            this.tabPage2.Controls.Add(this.label4);
+            this.tabPage2.Controls.Add(this.label3);
             this.tabPage2.Controls.Add(this.label1);
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
@@ -138,39 +193,31 @@
             this.tabPage2.Size = new System.Drawing.Size(615, 483);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "About";
+            this.tabPage2.Click += new System.EventHandler(this.tabPage2_Click);
             // 
-            // label1
+            // label6
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Maroon;
-            this.label1.Location = new System.Drawing.Point(39, 72);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(539, 252);
-            this.label1.TabIndex = 0;
-            this.label1.Text = resources.GetString("label1.Text");
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label6.Location = new System.Drawing.Point(34, 268);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(539, 84);
+            this.label6.TabIndex = 5;
+            this.label6.Text = resources.GetString("label6.Text");
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("BigNoodleTitling", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.Red;
-            this.label2.Location = new System.Drawing.Point(271, 26);
+            this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.label2.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.Maroon;
+            this.label2.Location = new System.Drawing.Point(28, 39);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(69, 32);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Refer";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label3.Location = new System.Drawing.Point(40, 324);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(340, 21);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "GitHub      :    https://github.com/sasithon2541/Grammar";
+            this.label2.Size = new System.Drawing.Size(207, 21);
+            this.label2.TabIndex = 6;
+            this.label2.Text = "Developer   :   Sasithon  Pimmatha";
             // 
             // Form1
             // 
@@ -197,11 +244,14 @@
         private System.Windows.Forms.Button bt3;
         private System.Windows.Forms.Button bt2;
         private System.Windows.Forms.Button bt1;
-        private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
     }
 }
 
