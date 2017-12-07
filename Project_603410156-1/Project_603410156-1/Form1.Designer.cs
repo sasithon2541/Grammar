@@ -79,7 +79,7 @@
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.button1.Font = new System.Drawing.Font("BigNoodleTitling", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Yellow;
-            this.button1.Location = new System.Drawing.Point(320, 135);
+            this.button1.Location = new System.Drawing.Point(320, 149);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(191, 56);
             this.button1.TabIndex = 3;
@@ -93,7 +93,7 @@
             this.bt3.BackColor = System.Drawing.Color.MediumTurquoise;
             this.bt3.Font = new System.Drawing.Font("BigNoodleTitling", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bt3.ForeColor = System.Drawing.Color.Maroon;
-            this.bt3.Location = new System.Drawing.Point(81, 135);
+            this.bt3.Location = new System.Drawing.Point(81, 149);
             this.bt3.Name = "bt3";
             this.bt3.Size = new System.Drawing.Size(191, 56);
             this.bt3.TabIndex = 2;
@@ -107,7 +107,7 @@
             this.bt2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.bt2.Font = new System.Drawing.Font("BigNoodleTitling", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bt2.ForeColor = System.Drawing.Color.Indigo;
-            this.bt2.Location = new System.Drawing.Point(320, 54);
+            this.bt2.Location = new System.Drawing.Point(320, 68);
             this.bt2.Name = "bt2";
             this.bt2.Size = new System.Drawing.Size(191, 56);
             this.bt2.TabIndex = 1;
@@ -121,7 +121,7 @@
             this.bt1.BackColor = System.Drawing.Color.Yellow;
             this.bt1.Font = new System.Drawing.Font("BigNoodleTitling", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bt1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.bt1.Location = new System.Drawing.Point(81, 54);
+            this.bt1.Location = new System.Drawing.Point(81, 68);
             this.bt1.Name = "bt1";
             this.bt1.Size = new System.Drawing.Size(191, 56);
             this.bt1.TabIndex = 0;
