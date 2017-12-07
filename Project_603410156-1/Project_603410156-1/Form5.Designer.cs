@@ -2616,7 +2616,7 @@
             this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.button6.Font = new System.Drawing.Font("BigNoodleTitling", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.button6.Location = new System.Drawing.Point(235, 371);
+            this.button6.Location = new System.Drawing.Point(235, 382);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(158, 49);
             this.button6.TabIndex = 200;
