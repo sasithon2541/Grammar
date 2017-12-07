@@ -144,9 +144,9 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Maroon;
-            this.label1.Location = new System.Drawing.Point(39, 89);
+            this.label1.Location = new System.Drawing.Point(39, 72);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(539, 168);
+            this.label1.Size = new System.Drawing.Size(539, 252);
             this.label1.TabIndex = 0;
             this.label1.Text = resources.GetString("label1.Text");
             // 
@@ -166,7 +166,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("BigNoodleTitling", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label3.Location = new System.Drawing.Point(43, 261);
+            this.label3.Location = new System.Drawing.Point(40, 324);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(340, 21);
             this.label3.TabIndex = 2;
