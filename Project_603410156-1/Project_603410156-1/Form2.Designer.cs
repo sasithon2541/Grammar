@@ -127,7 +127,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "Irregular Verbs";
             this.ResumeLayout(false);
             this.PerformLayout();
 
