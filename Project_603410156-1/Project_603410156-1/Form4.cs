@@ -66,6 +66,10 @@ namespace Project_603410156_1
                     t = File.ReadAllText("Conjunction.txt");
                     tb1.Text = t.ToString();
                     break;
+                case "Interjection":
+                    t = File.ReadAllText("Interjection.txt");
+                    tb1.Text = t.ToString();
+                    break;
                 case "Active & Passive Voice":
                     t = File.ReadAllText("Active & Passive Voice.txt");
                     tb1.Text = t.ToString();
