@@ -17,7 +17,7 @@ namespace Project_603410156_1
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)//เมื่อคลิ๊ก botton1 ที่ชื่อ Search
         {
             string k; //กำหนด k ให้เป็นตัวหนังสือ   
             switch (comboBox1.Text) //กำหนดเงื่อนไขใน comboBox1.Text
@@ -78,13 +78,13 @@ namespace Project_603410156_1
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)//เมื่อคลิ๊ก botton2 ที่ชื่อ Clear
         {
             tb1.Text = "";  //เมื่อคลิ๊กปุ่ม Clear tb1 จะว่างเปล่า
             comboBox1.SelectedIndex = 0;  //เมื่อคลิ๊กปุ่ม Clear comboBox1 จะว่างเปล่า
         }
 
-        private void Form3_Load(object sender, EventArgs e)
+        private void Form3_Load(object sender, EventArgs e)//เมื่อ Form3 ขึ้นมา
         {
             comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;//ทำให้ comboBox1 พิมพ์ข้อความไม่ได้
             comboBox1.Items.Add(" ");  //คลิ๊กปุ่ม comboBox1 จะพบว่ารายการไอเท็มใหม่ที่เรากำหนด จะเข้าไปอยู่ใน comboBox1 คือ " "
@@ -107,9 +107,14 @@ namespace Project_603410156_1
         {           
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e)//เมื่อคลิ๊ก botton4 ที่ชื่อ Close
         {
             this.Close(); //คำสั่งออกจากโปรแกรมโดยใช้ Close(); เพราะจะออกทีละหน้า
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

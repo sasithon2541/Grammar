@@ -27,3 +27,4 @@ C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\o
 C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156-1.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156-1.exe
 C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156-1.pdb
+C:\Users\User\Documents\GitHub\Grammar\Project_603410156-1\Project_603410156-1\obj\Debug\Project_603410156-1.csprojResolveAssemblyReference.cache

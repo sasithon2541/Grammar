@@ -40,18 +40,18 @@ namespace Project_603410156_1
         }
 
 
-        private void button4_Click(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e)//เมื่อคลิ๊ก botton4 ที่ชื่อ Close
         {
             this.Close(); //คำสั่งออกจากโปรแกรมโดยใช้ Close(); เพราะจะออกทีละหน้า
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)//เมื่อคลิ๊ก botton2 ที่ชื่อ Clear
         {
             textBox1.Text = ""; //เมื่อคลิ๊กปุ่ม Clear textBox1 จะว่างเปล่า
             textBox2.Text = ""; //เมื่อคลิ๊กปุ่ม Clear textBox2 จะว่างเปล่า
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)//เมื่อคลิ๊ก botton1 ที่ชื่อ Search
         {
             string word = textBox1.Text; // ตัดพวกคำลงท้ายให้เหลือแต่คำแม่ เมื่อเราเติม กริยา 3 ช่อง ที่เติม -ing -es อื่น ใน textBox1 เก็บไว่ใน Word
             textBox2.Text = stemmer.Stem(word); // stemmer คือ เติม -ing -es อื่น จะแสดงกริยา 3 ช่อง แสดงที่ textBox2 

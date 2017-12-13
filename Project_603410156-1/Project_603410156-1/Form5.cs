@@ -47,7 +47,7 @@ namespace Project_603410156_1
 
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void button6_Click(object sender, EventArgs e) //เมื่อคลิ๊ก botton6 ที่ชื่อ Restart
         {
             //เมื่อคลิ๊ก Restart
             Form5 f5 = new Form5(); //คำสั่งเปิดฟรอมที่ 5 เพื่อไปยังโปรแกรมหาจำนวนพลังงาน โดย Form5 f2 = new Form5();
@@ -56,7 +56,7 @@ namespace Project_603410156_1
         }
 
         bool ok = false; //กำหนดค่า bool ok = 0
-        private void button4_Click(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e)//เมื่อคลิ๊ก botton4 ที่ชื่อ Next
         {           
             if (ok == false) //เปรียบเทียบว่า ok มันเท่ากันหรือไม่กับ false
             {
@@ -68,7 +68,7 @@ namespace Project_603410156_1
             else tabControl1.SelectedTab = tabPage2;  //ในกรณีที่ ok ยังไม่เป็น false จะโชว์ tabPage2 ใน tabControl1       
         }
 
-        private void Form5_Load(object sender, EventArgs e)
+        private void Form5_Load(object sender, EventArgs e)//เมื่อ Form5 ขึ้นมา
         {
            tabControl1.TabPages.Remove(tabPage5); //ลบแถบที่ยังไม่ได้ใช้งานออกก่อน(tabPage5)
            tabControl1.TabPages.Remove(tabPage4); //ลบแถบที่ยังไม่ได้ใช้งานออกก่อน(tabPage4)
@@ -77,7 +77,7 @@ namespace Project_603410156_1
         }
 
         bool g = false; //กำหนดค่า bool g = 0
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)//เมื่อคลิ๊ก botton1 ที่ชื่อ Next
         {
             if (g == false)//เปรียบเทียบว่า g มันเท่ากันหรือไม่กับ false
             {
@@ -91,7 +91,7 @@ namespace Project_603410156_1
 
 
         bool y = false; //กำหนดค่า bool y = 0
-        private void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)//เมื่อคลิ๊ก botton2 ที่ชื่อ Next
         {
             if (y == false)//เปรียบเทียบว่า y มันเท่ากันหรือไม่กับ false
             {
@@ -105,7 +105,7 @@ namespace Project_603410156_1
 
 
         bool t = false; //กำหนดค่า bool t = 0
-        private void button3_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e) //เมื่อคลิ๊ก botton3 ที่ชื่อ Next
         {
             if (t == false)//เปรียบเทียบว่า y มันเท่ากันหรือไม่กับ false
             {
@@ -127,7 +127,7 @@ namespace Project_603410156_1
 
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void button5_Click(object sender, EventArgs e) //เมื่อคลิ๊ก botton5 ที่ชื่อ Check
         {
             //เมื่อคลิ๊กปุ่ม Check
             int a =0; //กำหนด a ชนิดตัวเลขเท่ากับ 0
